@@ -301,17 +301,6 @@ the platform provides a practical approach towards building **cooler, more susta
 
 ---
 
-## 👥 Team
 
-**Team Name:** `[Your Team Name]`
-
-| Name         | Role                    |
-| ------------ | ----------------------- |
-| `[Member 1]` | Frontend / UI           |
-| `[Member 2]` | Data & Analysis         |
-| `[Member 3]` | Development             |
-| `[Member 4]` | Research & Presentation |
-
----
 
 ### 🌱 Building Cooler Cities, One Planning Decision at a Time.
