@@ -301,6 +301,3 @@ the platform provides a practical approach towards building **cooler, more susta
 
 ---
 
-
-
-### 🌱 Building Cooler Cities, One Planning Decision at a Time.
